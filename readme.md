@@ -1,4 +1,8 @@
-#Firmata
+#Firmata for LightBlue Bean
+
+Based on previous work by Jacob Rosenthal: 
+https://github.com/jacobrosenthal/arduino/tree/bean
+
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/firmata/arduino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
